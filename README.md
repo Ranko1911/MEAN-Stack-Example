@@ -61,7 +61,3 @@ When both applications are built and running, open your browser on http://localh
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
-
-## Disclaimer
-
-Use at your own risk; not a supported MongoDB product
